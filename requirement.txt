@@ -1,0 +1,4 @@
+streamlit
+pillow
+tweepy
+python-dotenv
